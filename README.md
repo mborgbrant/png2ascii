@@ -22,7 +22,7 @@ You can also add the optional `--invert` flag to invert the colors of the image.
 
 An example PNG file is provided in the repo, named `guy-fawkes.png`. To convert this file to ASCII art with inverted colors, run the following command:
 
-`node png2ascii --invert --infile guy-fawkes.png`
+`node png2ascii.js --invert --infile guy-fawkes.png`
 
 If you want to save the output to a file you can pipe the result into that file:
 
