@@ -12,7 +12,7 @@ In order to use this tool, you must first install the required npm packages by r
 
 To convert a PNG file to ASCII art, run the following command in your terminal:
 
-`node png2ascii [--invert] --infile filename.png`
+`node png2ascii.js [--invert] --infile filename.png`
 
 Replace `filename.png` with the name of the PNG file you wish to convert.
 
